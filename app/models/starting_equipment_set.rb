@@ -1,0 +1,2 @@
+class StartingEquipmentSet < ApplicationRecord
+end

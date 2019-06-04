@@ -1,0 +1,2 @@
+class Spellcasting < ApplicationRecord
+end
