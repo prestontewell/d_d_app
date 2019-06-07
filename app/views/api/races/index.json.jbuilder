@@ -1,1 +1,0 @@
-json.message "This is the index"
